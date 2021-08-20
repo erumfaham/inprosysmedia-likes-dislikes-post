@@ -1,6 +1,6 @@
 === inprosysmedia-likes-dislikes-post ===
-Contributors: (erumfaham@gmail.com)
-Tags: like, dislike, postlikedislik
+Contributors: erumfaham
+Tags: like, dislike, post like dislike, post like,post dislike,like count,dislike count
 Requires at least: 5.3
 Tested up to: 5.8
 Stable tag: 4.3
@@ -12,16 +12,16 @@ It helps to like or dislike post as well as store its value in database against 
 
 == Description ==
 
-Posts Like Dislike is the Free WordPress Plugin to enable Like and Dislike Icons for default WordPress Posts or blog page with different type of posts.Display Like and Dislike in text form with sliding Thumbs Up or Thumbs Down effect as well as how many people like/dislike the post show number of count aside with button.Immediately add the count when user clicked on button.
+Posts Like Dislike is the Free WordPress Plugin to enable Like and Dislike Icons for default WordPress Posts or blog page with different type of posts. Display Like and Dislike in text form with sliding Thumbs Up or Thumbs Down effect as well as how many people like/dislike the post show number of count aside with button. Immediately add the count when user clicked on button.
 
-Posts Like Dislike increases the interaction with the WordPress posts/post types by enabling likes and dislikes buttons along with the count.These values are stored in database where those recodes are managed.Only Loged-in user can see Like/Dislike buttons at post page and like/dislike the post. 
+Posts Like Dislike increases the interaction with the WordPress posts/post types by enabling likes and dislikes buttons along with the count. These values are stored in database where those recodes are managed. Only Logged-in user can see Like/Dislike buttons at post page and like/dislike the post. 
 
-In addition,simply install it and it’s ready to go on the other hand its automatically show on post after the content section as well as create recodes in wordpress database when uninstalled plugin.
+In addition, simply install it and it’s ready to go on the other hand its automatically show on post after the content section as well as create recodes in WordPress database when uninstalled plugin.
 
 A few notes about the sections above:
 
 *   "Contributors" erumfaham
-*   "Tags" like,likes, dislike,dislikes, post like dislik,like dislik post,thumbs-up post,thumbs-down post,post value,post store in database
+*   "Tags" like, likes, dislike, dislikes, post like dislike, like dislike post, thumbs-up post, thumbs-down post, post value, post store in database
 *   "Requires at least" 5.3 version that the plugin will work on
 *   "Tested up to" is the highest 5.8 version that you've *successfully used to test the plugin*. Note that it might work on
 higher versions... this is just the highest one you've verified.
@@ -42,11 +42,11 @@ you put the stable version, in order to eliminate any doubt.
 
 = Are Like or dislike values stored in database? =
 
-Yes,it store like or dislike values in database as well as update if user change its opinion.
+Yes, it store like or dislike values in database as well as update if user change its opinion.
 
 = Can we change thumbs-up and thumbs-down icon? =
 
-No,it constant values.
+No, it constant values.
 
 == Screenshots ==
 
