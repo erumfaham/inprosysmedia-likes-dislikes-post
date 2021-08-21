@@ -3,7 +3,7 @@ Contributors: erumfaham
 Tags: like, dislike, post like dislike, post like,post dislike,like count,dislike count
 Requires at least: 5.3
 Tested up to: 5.8
-Stable tag: 4.3
+Stable tag: 1.0.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,7 +29,7 @@ higher versions... this is just the highest one you've verified.
 stable.
 
     Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
-if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
+if the `/trunk/readme.txt` file says that the stable tag is `1.0.0`, then it is `/tags/1.0.0/readme.txt` that'll be used
 for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
 is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
 your in-development version, without having that information incorrectly disclosed about the current stable version
